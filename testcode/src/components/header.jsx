@@ -25,7 +25,7 @@ const ulStyles = {
   };
   
   const liStyle = {
-    marginRight: '40px',
+    marginRight: '20px',
     fontWeight: 'bold',
     cursor: 'pointer',
   };
