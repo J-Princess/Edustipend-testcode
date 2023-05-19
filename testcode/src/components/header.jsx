@@ -4,7 +4,7 @@ import "../App.css"
 
 const Header = () =>{
     return(
-         <header>
+         <header style={{width:"99%", height:"50px", backgroundColor:"antiqueWhite",margin:"10px", borderRadius:"10px"}}>
             <h1></h1>
             <nav style={navStyles}>
                 <ul style={ulStyles}>
